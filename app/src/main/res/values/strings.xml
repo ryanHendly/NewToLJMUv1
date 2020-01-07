@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewToLJMUv1</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_campus">Map</string>
+    <string name="title_activity_city_campus">Map</string>
+    <string name="title_activity_pleasant_campus">Map</string>
+    <string name="title_activity_marsh_campus">Map</string>
+    <string name="title_activity_bars">Map</string>
+    <string name="title_activity_events">Map</string>
+    <string name="title_activity_gyms">Map</string>
+    <string name="title_activity_club">Map</string>
+    <string name="title_activity_restaurant">Map</string>
+    <string name="title_activity_tourist">Map</string>
+    <string name="title_activity_wild_card">Map</string>
+</resources>
